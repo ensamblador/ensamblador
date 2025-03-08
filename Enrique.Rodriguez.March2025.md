@@ -107,7 +107,7 @@ Lead technical advisor specializing in enterprise AI/ML implementations across L
 
 
 
-## Lead of Presales @ Telefónica
+## Manager Presales @ Telefónica
 Mar 2016 - Dec 2019 (3 years 10 months)
 - Managed 14-person Presales Engineering team, optimizing solution design and cost estimation
 - Developed self-service quoting tools to scale sales operations
@@ -192,5 +192,3 @@ Oct 2008 - Apr 2011 (2 years 7 months)
 - Technical Leadership: Solution design, architectural reviews, technical roadmapping
 - Content Creation: Technical blogs, whitepapers, reference architectures
 - Public Speaking: Conference presentations, technical workshops, C-level engagement
-
-
