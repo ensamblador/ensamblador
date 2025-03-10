@@ -35,4 +35,10 @@ Reference implementation for building React applications with Bedrock, featuring
 
 Feel free to reach me if you have cool ideas, or want to collab on this projects.
 
+### Sometimes I post at
+
+- [DEV Community](https://dev.to/ensamblador)
+- [AWS Community](https://community.aws/@enrique)
+- [AWS Blog](https://aws.amazon.com/es/blogs/aws-spanish/practicas-recomendadas-para-crear-modelos-de-interaccion-de-amazon-lex/)
+
 ✌️
