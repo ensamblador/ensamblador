@@ -3,12 +3,12 @@
 - I'm a Senior Solutions Architect @ AWS. I like to build specializing in Cloud and Generative AI implementations. 
 - As today, I help organizations transform their businesses through innovative and responsible AI solutions.
 - Master Degree in Data Science @ UDD and Electrical Engineer Universidad de Santiago
-- [This is my Resume](Enrique.Rodriguez.March2025.md).
+- [This is my Resume](Enrique.Rodriguez.Nov2025.md).
 
 # Personal
 
 - Things I'm passionate about: Family, Running, AI, Python, Music, Video Games.
-- Santiago Born and raised. Moving to SF Bay Area.
+- Santiago Born and raised. Living in San Francisco,  Bay Area.
 - Contact me: [LinkedIn](https://www.linkedin.com/in/enriquerodriguezgarrido) [Twitter](https://x.com/ensamblador) [email](enrique.rodriguez.garrido@gmail.com)
 
 
