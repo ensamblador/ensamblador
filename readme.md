@@ -3,7 +3,7 @@
 - I'm a Senior Solutions Architect @ AWS. I like to build specializing in Cloud and Generative AI implementations. 
 - As today, I help organizations transform their businesses through innovative and responsible AI solutions.
 - Master Degree in Data Science @ UDD and Electrical Engineer Universidad de Santiago
-- [This is my Resume](Enrique.Rodriguez.Nov2025.md).
+- This is my Resume [(markdown)](Enrique.Rodriguez.Dec2025.md) [(pdf)](Enrique.Rodriguez.Dec2025.pdf) 
 
 # Personal
 
