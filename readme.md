@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Enrique Rodriguez
 
-- I'm a Senior Solutions Architect @ AWS. I like to build specializing in Cloud and Generative AI implementations. 
+- I'm a Senior Solutions Architect @ AWS. I like to build specializing in Cloud and Generative Applied AI. 
 - As today, I help organizations transform their businesses through innovative and responsible AI solutions.
 - Master Degree in Data Science @ UDD and Electrical Engineer Universidad de Santiago
 - This is my Resume [(markdown)](Enrique.Rodriguez.Dec2025.md) [(pdf)](Enrique.Rodriguez.Dec2025.pdf) 
@@ -14,7 +14,12 @@
 
 ## Recent Projects 
 
-**[March 2025] [Multimodal Claude Thinking](https://github.com/aws-samples/generative-ai-ml-latam-samples/tree/main/samples/multimodal-claude-thinking)**
+
+**[Jan 2026] [WhatsApp Integration with Amazon Connect](https://github.com/aws-samples/sample-whatsapp-end-user-messaging-connect-chat)** Interested in opening WhatsApp as an Agentic CX channel using AWS? This open source sample project covers common use cases like handling attachments, voice notes, message buffering. All with IaC and Python.
+
+**[Dec 2025] [ElevenLabs Voices on Amazon Connect](https://github.com/ensamblador/elevenlabs-voices-amazon-connect)** A step-by-step guide to integrating ElevenLabs high-quality TTS voices in Spanish into Amazon Connect contact flows and Lex bots. Covers provider setup, regional accent selection, Secrets Manager configuration, and conversational AI integration — announced at re:Invent 2025 as part of Connect's new third-party speech model support.
+
+**[Apr 2025] [Multimodal Claude Thinking](https://github.com/aws-samples/generative-ai-ml-latam-samples/tree/main/samples/multimodal-claude-thinking)**
 Example notebooks demonstrating Claude 3's multimodal capabilities combined with explicit reasoning across text, image and document analysis. Shows how to implement real-time reasoning visualization and processing.
 
 **[Feb 2025] [Connect Custom Bot](https://github.com/aws-samples/generative-ai-ml-latam-samples/tree/main/samples/connect-custom-bot)** An Amazon Connect contact center solution featuring AI agents with built-in human escalation workflows. Uses Bedrock Agents for conversational AI and provides flexibility for custom reasoning and multi-agent architectures.
