@@ -8,12 +8,14 @@
 # Personal
 
 - Things I'm passionate about: Family, Running, AI, Python, Music, Video Games.
-- Santiago Born and raised. Living in San Francisco,  Bay Area.
+- Born and raised in Santiago now Living in the Bay Area.
 - Contact me: [LinkedIn](https://www.linkedin.com/in/enriquerodriguezgarrido) [Twitter](https://x.com/ensamblador) [email](enrique.rodriguez.garrido@gmail.com)
 
 
 ## Recent Projects 
 
+
+**[Mar 2026] [Social Media Integration with Amazon Connect](https://github.com/aws-samples/sample-amazon-connect-social-integration)** Code samples and patterns for integrating social media platforms (Facebook Messenger, Instagram DM) with Amazon Connect Chat. Includes bidirectional messaging, session management, attachment support, and complete CDK Python implementations.
 
 **[Jan 2026] [WhatsApp Integration with Amazon Connect](https://github.com/aws-samples/sample-whatsapp-end-user-messaging-connect-chat)** Interested in opening WhatsApp as an Agentic CX channel using AWS? This open source sample project covers common use cases like handling attachments, voice notes, message buffering. All with IaC and Python.
 
