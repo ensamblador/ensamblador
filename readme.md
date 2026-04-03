@@ -15,7 +15,7 @@
 ## Recent Projects 
 
 
-**[Mar 2026] [Social Media Integration with Amazon Connect](https://github.com/aws-samples/sample-amazon-connect-social-integration)** Code samples and patterns for integrating social media platforms (Facebook Messenger, Instagram DM) with Amazon Connect Chat. Includes bidirectional messaging, session management, attachment support, and complete CDK Python implementations.
+**[Mar 2026] [Social Media Integration with Amazon Connect](https://github.com/aws-samples/sample-amazon-connect-social-integration)** Code samples and patterns for integrating social media platforms (Facebook Messenger, Instagram DM, X DM) with Amazon Connect Chat. Includes bidirectional messaging, session management, attachment support, and complete CDK Python implementations.
 
 **[Jan 2026] [WhatsApp Integration with Amazon Connect](https://github.com/aws-samples/sample-whatsapp-end-user-messaging-connect-chat)** Interested in opening WhatsApp as an Agentic CX channel using AWS? This open source sample project covers common use cases like handling attachments, voice notes, message buffering. All with IaC and Python.
 
